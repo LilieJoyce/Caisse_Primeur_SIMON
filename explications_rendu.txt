@@ -1,0 +1,17 @@
+Voici le fichier explication de mon rendu 
+
+Vous retrouverez comme demandé les 3 classes, à savoir Produit, ProduitKilo, ProduitUnite (dans src)
+ainsi que les fichiers tests unitaires associés : testProduit, testProduitKilo, testProduitUnite (dans test)
+Un fichier testGlobal.php, reprenant tous les tests est également disponible
+
+Je n'ai pas réussi à mettre en oeuvre la méthode ABSTRACT, j'ai laissé en commentaire PHP les pistes que j'avais
+pu utiliser, puis j'ai remis le code précédent, qui lui est fonctionnel mais pas en abstrait pour PRODUIT et sa
+méthode de calcul de prix
+
+Un fichier style.css est associé à ses fichiers et se trouve à la racine de ce dossier rendu
+Un fichier produit.sql est disponible, il suffit d'importer la table "produit"" dans une bdd "caisse_primeur" 
+préalablement créée dans localhost sous PHPMyAdmin
+
+Enfin vous trouverez fichier pdf contenant comme demandé les diagrammes UML, et à défaut
+si vous ne pouvez pas visualiser les résultats affichés de la BDD, des imprim écran des résultats à la suite
+

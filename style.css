@@ -1,0 +1,13 @@
+.produit {
+	margin : 2%;
+	padding : 2%;
+	margin-top : 0;
+	margin-bottom : 0;
+	float : left;
+	width : 42%;
+	border : 1px dashed black;	
+}
+
+.produit p:first-child {
+	font-weight : bold;
+}
